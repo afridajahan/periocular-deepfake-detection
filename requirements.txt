@@ -1,0 +1,12 @@
+# Colab already provides most of these; install only what is missing.
+mediapipe
+imagehash
+tensorflow
+numpy
+opencv-python
+pillow
+scikit-learn
+matplotlib
+seaborn
+psutil
+tqdm
